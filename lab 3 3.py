@@ -1,0 +1,8 @@
+A = int(input("Enter the value of A: "))
+B = int(input("Enter the value of B: "))
+print("A == B is", A == B)
+print("A != B is", A != B)
+print("A > B is", A > B)
+print("A < B is", A < B)
+print("A >= B is", A >= B)
+print("A <= B is", A <= B)
